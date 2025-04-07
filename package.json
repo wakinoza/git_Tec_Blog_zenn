@@ -1,0 +1,23 @@
+{
+  "name": "git_tec_blog_zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakinoza/git_Tec_Blog_zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakinoza/git_Tec_Blog_zenn/issues"
+  },
+  "homepage": "https://github.com/wakinoza/git_Tec_Blog_zenn#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
