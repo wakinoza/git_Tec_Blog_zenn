@@ -2,7 +2,7 @@
 title: "例外クラスのポリモーフィズム[Java入門]"
 emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Java,"Java入門","初心者"]
+topics: ["Java","Java入門","初心者"]
 published: false
 ---
 
