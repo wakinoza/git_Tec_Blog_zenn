@@ -3,7 +3,7 @@ title: "「ネストしたクラス」まとめ[Java入門]"
 emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["java","java入門","初心者"]
-published: false
+published: true
 ---
 
 
