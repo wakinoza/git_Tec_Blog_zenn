@@ -18,6 +18,6 @@
   "homepage": "https://github.com/wakinoza/git_Tec_Blog_zenn#readme",
   "description": "",
   "dependencies": {
-    "zenn-cli": "^0.1.161"
+    "zenn-cli": "^0.2.1"
   }
 }
