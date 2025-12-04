@@ -16,8 +16,9 @@
     "url": "https://github.com/wakinoza/git_Tec_Blog_zenn/issues"
   },
   "homepage": "https://github.com/wakinoza/git_Tec_Blog_zenn#readme",
-  "description": "",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
   "dependencies": {
-    "zenn-cli": "^0.2.1"
-  }
+    "zenn-cli": "^0.2.10"
+  },
+  "type": "commonjs"
 }
