@@ -3,7 +3,7 @@ title: "[AssertJ]パラメータテストと、データセットの抽出方法
 emoji: "🐷"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Java","JUnit","JUnit5","AssertJ"]
-published: false
+published: true
 ---
 
 ## はじめに
