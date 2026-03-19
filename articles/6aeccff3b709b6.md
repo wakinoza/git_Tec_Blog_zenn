@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "[AWS] Policy Generator の使い方"
 emoji: "🗂"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["AWS","IAMロール","IAMポリシー"]
 published: false
 ---
-[AWS] Policy Generator の使い方
+
 
 ## はじめに
 
