@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "[Linux]ハードリンクとシンボリックリンク"
 emoji: "🙌"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["Linux","LinuC"]
 published: false
 ---
-[Linux]ハードリンクとシンボリックリンク
+
 
 ## はじめに
 
