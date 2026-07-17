@@ -232,7 +232,7 @@ gh auth status
 ```Bash
 gh workflow list
 ```
-- [gh workflow listの結果](/images/workflow-list.png)
+![gh workflow listの結果](/images/workflow-list.png)
 
 リポジトリ内の、ワークフローの一覧が表示されます。
 「STATE」が「active」であれば、GitHubがワークフローとして認識していることを示します。
@@ -246,7 +246,7 @@ gh workflow list
 gh run list
 ```
 
-[1時間後のgh run listの結果](/images/run-list-1h.png)
+![1時間後のgh run listの結果](/images/run-list-1h.png)
 
 `gh run list`コマンドは、実際に実行されたワークフローの一覧を表示します。
 EVENT列には、ワークフローを開始したイベント（push、schedule、workflow_dispatchなど）が表示されるため、どのイベントが実行のきっかけになったかを確認できます。
@@ -261,13 +261,13 @@ STATUS列には、成功・失敗・実行中などの実行状態が表示さ�
 
 pushから3時間後、`gh run list`コマンドの結果が以下の通りです。
 
-[3時間後のgh run listの結果](/images/run-list-3h.png)
+![3時間後のgh run listの結果](/images/run-list-3h.png)
 
 予定時刻から2時間半以上経過して、ようやく最初の定期実行が発火しました。
 
 pushから8時間後、`gh run list`コマンドの結果が以下の通りです。
 
-[8時間後のgh run listの結果](/images/run-list-8h.png)
+![8時間後のgh run listの結果](/images/run-list-8h.png)
 
 30分に1回の定期実行を実験しましたが、8時間経って、発火したのは2回という結果でした。
 最初の発火までに3時間以上かかり、その後の実行も2時間ほど間隔があいていることがわかります。
