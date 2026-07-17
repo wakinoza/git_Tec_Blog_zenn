@@ -3,7 +3,7 @@ title: "[GitHub Actions] 定期実行が発火しなかった際に確認した�
 emoji: "⛳"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Github Actions"]
-published: false
+published: true
 ---
 
 ## はじめに
@@ -44,8 +44,8 @@ GitHub Actionsを利用する場合は、実行したいGit管理のリポジト
 
 ```Plain
 .github
-  └ workflows
-     L workflowfile.yml
+  └─　workflows
+     　└─ workflowfile.yml
 ```
 
 ### 1\.2 ワークフローファイルの記述方法
